@@ -1,21 +1,10 @@
 # Projeto P4 — Um Problema, Quatro Paradigmas
-**Tag:** `[P4-ETAPA-01]`[cite: 1, 2]
 
-Este repositório contém a solução para o problema de **Chaveamento de Torneios** desenvolvido ao longo da disciplina, explorando os paradigmas Imperativo, Orientado a Objetos, Funcional e Lógico[cite: 2].
-
----
-
-## Progresso do Projeto
-- [x] **[P4-ETAPA-01]** Proposta e Especificação do Problema[cite: 1, 2]
-- [ ] **[P4-ETAPA-02]** Contrato semântico e testes[cite: 2]
-- [ ] **[P4-ETAPA-03]** Implementação imperativa[cite: 2]
-- [ ] **[P4-ETAPA-04]** Implementação orientada a objetos[cite: 2]
-- [ ] **[P4-ETAPA-05]** Implementação funcional[cite: 2]
-- [ ] **[P4-ETAPA-06]** Implementação lógica[cite: 2]
+Este repositório contém a solução para o problema de **Chaveamento de Torneios** desenvolvido ao longo da disciplina, explorando os paradigmas Imperativo, Orientado a Objetos, Funcional e Lógico.
 
 ---
 
-## Especificação do Problema (Etapa 01)
+## Especificação do Problema
 
 ### 1. Descrição do problema
 O problema a ser resolvido nesse projeto se dá quando várias pessoas estão competindo em alguma coisa e é necessário ter apenas um vencedor.
