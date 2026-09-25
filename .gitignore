@@ -1,0 +1,26 @@
+# Configurações de IDEs (CLion / JetBrains)
+.idea/
+.vscode/
+
+# Pastas de build e compilação do CMake / C++
+cmake-build-debug/
+cmake-build-release/
+build/
+bin/
+obj/
+
+# Executáveis e arquivos objeto (Windows e Linux/macOS)
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dylib
+
+# Binários executáveis gerados no diretório do código (como 'main' sem extensão)
+/imperativo/main
+main
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
