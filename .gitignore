@@ -8,6 +8,7 @@ cmake-build-release/
 build/
 bin/
 obj/
+CMakeLists.txt
 
 # Executáveis e arquivos objeto (Windows e Linux/macOS)
 *.exe
